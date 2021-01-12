@@ -1,4 +1,4 @@
-## Hi there! 
+## Hi there! :sparkles:
 I am Matteo Cantiello, an Astrophysicist primarily working on the life and death of stars. 
 
 I am currently in NYC as an associate research scientist at the Center for Computational Astrophysics [(Flatiron Institute)](https://www.simonsfoundation.org/flatiron/) and a visiting associate researcher at [Princeton University](https://web.astro.princeton.edu/people/matteo-cantiello).  Prior to moving to New York, I was an associate specialist in astrophysics at the Kavli Institute for Theoretical Physics, one of the most renowned institutes for theoretical physics in the world, located at the University of California Santa Barbara, and an Argelander Fellow at Bonn University (Germany). I obtained my PhD in Astrophysics at the University of Utrecht, in the Netherlands, with a dissertation on “Unstable Stellar Interiors”. I hold a M.Sc. in Astrophysics and a B.Sc. in Physics, both from Pisa University, Italy, Alma Mater of the scientific revolution hero Galileo Galilei. 
